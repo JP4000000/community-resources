@@ -20,5 +20,5 @@ security review before using any resources listed.**
 ---
 #### figma-apca-compliance
 [SOURCE CODE](https://github.com/Merkle-XDI/figma-apca-compliance) · [MIT](https://github.com/Merkle-XDI/figma-apca-compliance/blob/main/LICENSE.txt)
-**MCP Tools:** `get_design_context` `get_variable_defs` `get_screenshot` `use_figma`
+**MCP Tools:** `get_design_context` `get_variable_defs` `get_screenshot` `use_figma`.
 A Claude skill for integrating APCA contrast compliance directly into the Figma design process. Audits and remaps color variables to meet target Lc thresholds, and generates APCA-compliant component variations across light and dark modes.
